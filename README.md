@@ -59,7 +59,8 @@ Sistem Manajemen Gudang berbasis web modern yang dirancang untuk mengelola inven
 Sistem menggunakan database relasional MySQLBerikut adalah file `README.md` profesional yang disusun berdasarkan arsitektur teknologi dan fitur yang telah kita bangun untuk proyek **Warehouse Management System (WMS)** Anda.
 
 ---
-
+username : admin
+password : admin
 
 **Dikembangkan oleh:** [Achmad Rivaldi Zulfah](https://github.com/Shoryuuuuuuu)  
 
