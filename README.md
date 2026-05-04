@@ -1,4 +1,4 @@
-git clone https://github.com/username/wms-update.git
+git clone https://github.com/Shoryuuuuuuu/warehouse.git
     cd wms-update
     ```
 
